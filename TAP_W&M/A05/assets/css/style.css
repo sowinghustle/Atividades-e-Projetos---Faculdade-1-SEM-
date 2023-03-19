@@ -1,0 +1,104 @@
+@import url(fonts.css);
+@import url(./fontawesome/all.min.css);
+@import url(./bootstrap/bootstrap.min.css);
+
+body{
+    margin: 0 auto;
+    font-family:Verdana, sans-serif;
+}
+
+/*------- CABEÇALHO --------*/
+header{
+    width: 100%;
+    height: 100px;
+    padding: 0;
+    background-color: rgb(255, 77, 80);
+    display: table;
+}
+
+header h1{
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    margin: 0 auto;
+}
+/*------ FIM CABEÇALHO -----*/
+
+/*---------- MENU ----------*/
+.menu{
+    width: 100%;
+}
+
+.menu ul{
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    background-color: rgb(115, 115, 115);
+}
+
+.menu ul li{
+    display: inline; /*Cada li (item do menu) um ao lado do outro*/
+}
+
+.menu ul li a{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block; /*Permite bloco li a totalmente clicavel*/
+    transition: background .4s;
+}
+
+.menu ul li a:hover{
+    background-color: rgb(255, 112, 99);
+}
+/*-------- FIM MENU --------*/
+
+/*-------- CONTEUDO --------*/
+.div-conteudo{
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-bottom: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*background-color: aqua;*/
+}
+
+.div-conteudo form label, input, select{
+    width: 30%;
+    height: 30px;
+    margin-left: 35%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.div-conteudo #botao{
+    background-color: rgb(255, 122, 99);
+    cursor: pointer;
+}
+
+.div-conteudo img{
+    width: 20%;
+    height: 100px;
+}
+
+.div-conteudo #resultado{
+    font-size: 15px;
+}
+/*------ FIM CONTEÚDO ------*/
+
+/*--------- RODAPE ---------*/
+footer{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(252, 70, 80);
+    position: absolute;
+	bottom: 0;
+}
+
+footer p{
+    text-align: center;
+}
+/*------- FIM RODAPE -------*/

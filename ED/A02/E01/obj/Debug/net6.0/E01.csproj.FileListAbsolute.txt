@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\bin\Debug\net6.0\E01.exe
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\bin\Debug\net6.0\E01.deps.json
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\bin\Debug\net6.0\E01.runtimeconfig.json
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\bin\Debug\net6.0\E01.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\bin\Debug\net6.0\E01.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\refint\E01.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\E01.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A02\E01\obj\Debug\net6.0\ref\E01.dll

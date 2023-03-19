@@ -1,0 +1,135 @@
+:root {
+    --bodyBG: #CCC;
+    --gmail: rgb(219, 68, 55);
+    --customGray: #e6d6f6;
+}
+
+body {
+    background-color: var(--bodyBG);
+}
+
+main {
+    position: relative;
+    width: 55vw;
+    height: 85vh;
+    top: 10vh;
+}
+
+form {
+    margin: auto !important;
+}
+
+img {
+    height: 85vh;
+    width: 100%;
+}
+
+.icon{
+    position:absolute;
+    top: 25px;
+    height: 5vh;
+    width: auto;
+}
+
+.icon#icon-left{
+    left: 25px;
+}
+.icon#icon-right{
+    right: 25px;
+    transform: scaleX(-1);
+}
+
+
+
+.icon:hover{
+    cursor: pointer;
+}
+
+.fa-circle-user, .fa-key{
+    border: 1px solid var(--customGray);
+    padding: 0.5rem;
+}
+
+div #pachirisu-left {
+    width: 9vw;
+    height: auto;
+    object-fit: cover;
+    position: relative;
+    bottom: 10px;
+}
+
+div #pachirisu-right {
+    width: 9vw;
+    height: auto;
+    object-fit: cover;
+    position: relative;
+    bottom: 10px;
+    transform: scaleX(-1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: lightsalmon;
+    font-family:'Roboto', 'Poppins', Arial, Helvetica, sans-serif;
+}
+
+.login {
+    width: 360px;
+    height: min-content;
+    padding: 20px;
+    border-radius: 12px;
+    background: #fff;
+}
+
+.login h1 {
+    font-family: 'Poppins';
+    font-size: large;
+    margin-bottom: 25px;
+}
+
+.login form {
+    font-family: 'Roboto';
+    font-size: medium;
+}
+
+.login form .form-group {
+    margin-bottom: 12px;
+}
+
+.login form input[type="submit"] {
+    font-size: 20px;
+    margin-top: 15px;
+}
+ */

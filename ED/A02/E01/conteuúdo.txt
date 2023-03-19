@@ -1,0 +1,3 @@
+1 - correção de uma questão de cálculo fatorial utilizando a estrutura de repetição FOR;
+2 - Exemplos de variáveis estruturadas (Vetores: Estrutura homogênea de uma única dimensão; conjunto de elementos do mesmo tipo);
+3 - Exercícios utilizando vetores e comando de repetição FOR;

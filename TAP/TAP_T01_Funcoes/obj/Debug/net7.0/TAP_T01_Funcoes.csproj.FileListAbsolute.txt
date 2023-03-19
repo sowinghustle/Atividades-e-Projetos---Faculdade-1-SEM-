@@ -1,0 +1,15 @@
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.csproj.AssemblyReference.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.AssemblyInfoInputs.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.AssemblyInfo.cs
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\bin\Debug\net7.0\TAP_T01_Funcoes.exe
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\bin\Debug\net7.0\TAP_T01_Funcoes.deps.json
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\bin\Debug\net7.0\TAP_T01_Funcoes.runtimeconfig.json
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\bin\Debug\net7.0\TAP_T01_Funcoes.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\bin\Debug\net7.0\TAP_T01_Funcoes.pdb
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\refint\TAP_T01_Funcoes.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.pdb
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\TAP_T01_Funcoes.genruntimeconfig.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_T01_Funcoes\obj\Debug\net7.0\ref\TAP_T01_Funcoes.dll

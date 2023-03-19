@@ -1,0 +1,30 @@
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.exe
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.deps.json
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.runtimeconfig.json
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\refint\E03.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\ref\E03.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.exe
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.deps.json
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.runtimeconfig.json
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\bin\Debug\net6.0\E03.pdb
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.csproj.AssemblyReference.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.AssemblyInfoInputs.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.AssemblyInfo.cs
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\refint\E03.dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.pdb
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\E03.genruntimeconfig.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\E03\obj\Debug\net6.0\ref\E03.dll

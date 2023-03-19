@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Link HREF do arquivo css global -->
+    <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+
+<body>
+    <header>
+        <section>
+            <img style="height: 61px;" src="assets/images/xhopii/logo.png" alt="logo-xhopii">
+            <h1>Xhoppi</h1>
+        </section>
+        <nav>
+            <ul style="margin-top: 1rem;">
+                <li style="list-style: none;">
+                    <label>Home</label>
+                    <label>Cadastro Cliente</label>
+                    <label>Cadastro Funcionário</label>
+                    <label>Cadastro Produto</label>
+                    <label>Ver Clientes</label>
+                    <label>Ver Funcionários</label>
+                    <label>Ver Produtos</label>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section style="display: flex;
+    margin-top: 2rem;">
+        <div style="display: flex;
+        flex-direction: column;
+        width: 15%;
+        height: 30rem;
+        margin-left: 8rem;">
+            <img style="height: 120px; width: 120px; opacity: 70%;" src="assets/images/xhopii/produto1.png">
+            <img style="height: 120px; width: 120px; opacity: 70%;" src="assets/images/xhopii/produto2.png">
+            <img style="height: 120px; width: 120px; opacity: 70%;" src="assets/images/xhopii/produto3.png">
+            <img style="height: 120px; width: 120px; opacity: 70%;" src="assets/images/xhopii/produto4.png">
+            <img style="height: 120px; width: 120px; opacity: 70%;" src="assets/images/xhopii/produto5.png">
+        </div>
+
+        <div>
+            <img style="height: 31rem;
+            width: 26rem;" src="assets/images/xhopii/produto1.png">
+        </div>
+
+        <div id="div-produtos">
+            <h1 id="h1-nome-produto">
+                Camisa Desenvolvedor Front-End CSS
+            </h1>
+            <H2 id="h2-preco">
+                R$56,90
+            </H2>
+            <small>
+                171 peças disponíveis
+            </small>
+            <h3>
+                Modelos:
+            </h3>
+            <button class="botao-opcao">Preto</button>
+            <button class="botao-opcao">Azul</button>
+            <button class="botao-opcao">Verde</button>
+            <button class="botao-opcao">Cinza</button>
+            <button class="botao-opcao">Rosa</button>
+            <h3>Tamanhos:</h3>
+            <button class="botao-opcao">P</button>
+            <button class="botao-opcao">M</button>
+            <button class="botao-opcao">G</button>
+            <button class="botao-opcao">GG</button>
+            <H3>Tamanho Selecionado: P</H3>
+            <button id="botao-compra">Comprar Agora</button>
+        </div>
+    </section>
+    <!-- Arquivo Scripts global -->
+    <script src="assets/js/scripts.js" type="module"></script>
+</body>
+
+</html>

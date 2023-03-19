@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    height: 100vh;
+}
+div.d1 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    align-items: center;
+    height: 100%;
+}
+div.d1 h1 {
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+div.d1 div {
+    display: flex;
+
+}
+a {
+    color:cadetblue;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    padding-top: 1vh;
+}

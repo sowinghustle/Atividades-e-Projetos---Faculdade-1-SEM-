@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" type="text/css" href="assets/style/style.css" />
+  <title>Evento - Fatec</title>
+
+  <!-- Link HREF do CSS do FONTAWESOME -->
+  <link rel="stylesheet" href="assets/style/FontAwesome/all.min.css">
+</head>
+
+<body>
+  <header>
+    <section class="cabecalho-sociais">
+      <section class="cabecalho-sociais-redes">
+        <a href="https://twitter.com/FatecPrudente">
+          <img src="assets/img/logo-twitter.webp">
+        </a>
+        <a href="https://www.youtube.com/user/FatecPrudente">
+          <img src="assets/img/logo-youtube.webp">
+        </a>
+        <a href="https://www.facebook.com/FatecPrudente">
+          <img src="assets/img/logo-facebook.wix_mp" alt="">
+        </a>
+      </section>
+      <nav class="menu-horizontal">
+        <ul>
+          <li>
+            <a href="">Home</a>
+            <a href="">Sobre</a>
+            <a href="">Inscrições</a>
+            <a href="">Cronograma</a>
+            <a href="">Patrocinadores</a>
+          </li>
+        </ul>
+      </nav>
+      <section class="cabecalho-logo">
+        <img src="assets/img/logo-fatec.png" alt="">
+        <h1>Eventos</h1>
+        <img src="assets/img/logo-gov-sp.webp" alt="">
+      </section>
+
+    </section>
+
+  </header>
+  <section style="margin-top: 5rem;" class="conteudo">
+    <form name="formulario-conteudo" action="" style="display: flex; height: 100%; flex-direction: column;">
+      <div>
+        <h2 style="text-align: center; margin: 3rem 0; text-transform: uppercase; color: #ffff;">Formulário</h2>
+      </div>
+      <div class="div-formulario-conteudo">
+        <label class="label-nomes-inputs">Nome</label>
+        <div class="div-formulario-campos">
+          <div class="div-icones-formulario"><i class="fa-solid fa-circle-user"></i></div>
+          <input name="nome" type="text" class="input-form" placeholder="Digite seu nome completo" required
+            minlength="1" maxlength="895">
+        </div>
+        <label class="label-nomes-inputs">CPF </label>
+        <div class="div-formulario-campos">
+          <div class="div-icones-formulario"><i class="fa-solid fa-address-book"></i></div>
+          <input name="cpf" type="number" class="input-form" placeholder="Digite seu CPF" required minlength="1"
+            maxlength="11">
+        </div>
+        <label class="label-nomes-inputs">Gênero</label>
+        <div style="width: 15.5rem;" class="div-formulario-campos">
+          <div class="div-icones-formulario"><i class="fa-solid fa-restroom"></i></div>
+          <select name="genero" id="genero-select">
+            <option value="">--Escolha uma opção--</option>
+            <option value="Masculino">Masculino</option>
+            <option value="Feminino">Feminino</option>
+            <option value="Outro">Outro</option>
+          </select>
+        </div>
+        <label class="label-nomes-inputs">Número de celular</label>
+        <div class="div-formulario-campos">
+          <div class="div-icones-formulario"><i class="fa-solid fa-phone"></i></div>
+          <input name="numero-celular" type="number" class="input-form" placeholder="Digite seu número de celular"
+            required minlength="1" maxlength="11">
+        </div>
+        <label class="label-nomes-inputs">E-Mail</label>
+        <div class="div-formulario-campos">
+          <div class="div-icones-formulario"><i class="fa-solid fa-envelope"></i></div>
+          <input name="email" type="email" class="input-form" placeholder="Digite seu E-mail" required minlength="15"
+            maxlength="255">
+        </div>
+        <label class="label-nomes-inputs">Endereço</label>
+        <div class="div-formulario-campos">
+          <div class="div-icones-formulario"><i class="fa-solid fa-location-dot"></i></div>
+          <input name="endereco" type="number" class="input-form" placeholder="Digite seu endereço" required
+            minlength="10" maxlength="200">
+        </div>
+        <div class="div-lembre-se-de-mim-e-submit">
+          <div id="div-botao-submit">
+            <button name="submit" class="botao-primario">SIGN-IN</button>
+          </div>
+          <div id="div-lembre-se-de-mim">
+            <input type="checkbox" id="lembre-se-de-mim">
+            <label for="lembre-se-de-mim">Lembre-se de Mim</label>
+          </div>
+        </div>
+      </div>
+
+    </form>
+  </section>
+  <section class="conteudo-sobre">
+    <h1>sobre</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+      temporibus rem officiis sapiente nemo dolore, accusantium
+      tempora nobis aut repudiandae. Nulla fugiat esse ipsum beatae,
+      tempora nobis natus dicta id?
+    </p>
+  </section>
+
+  <!-- footer>section+section -->
+  <footer>
+    <section class="rodape-contato">
+      <!-- h1+p*4 -->
+      <h1>Contato</h1>
+      <p>Rua Terezina, 75 - Vila Paulo Roberto</p>
+      <p>CEP 19046-230 - Presidente Prudente/SP</p>
+      <p>Tel: (18) 99686 - 7331</p>
+      <p>Tel: (18) 3916 - 7887</p>
+    </section>
+    <section class="rodape-desenvolvedores">
+      <p>Copyright ₢ Fatec Presidente Prudente 2023</p>
+    </section>
+  </footer>
+
+
+  <!-- JS do FontAwesome -->
+  <script src="assets/json/FontAwesome/9e3492e6f4.js"></script>
+</body>
+
+</html>

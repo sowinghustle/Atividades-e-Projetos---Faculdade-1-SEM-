@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+    <!-- CDN do Bootstrap, estou utilizando a versão mais recente: 5.3 -->
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+    </script> -->
+
+    <!-- Link HREF do CSS e JS do bootstrap -->
+    <link rel="stylesheet" href="../references/css/bootstrap/bootstrap.min.css">
+    <script src="../references/js/bootstrap.bundle.min.js"></script>
+    <!-- Link HREF do CSS e JS do FONTAWESOME -->
+    <link rel="stylesheet" href="../references/css/FontAwesome/all.min.css">
+    <script src="../references/js/FontAwesome/9e3492e6f4.js"></script>
+    <!-- Link HREF do arquivo css -->
+    <link rel="stylesheet" href="../references/css/pages/login.css" />
+    <link rel="stylesheet" href="../references/css/fonts.css" />
+    <!-- script do fontawesome -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://kit.fontawesome.com/9e3492e6f4.js" crossorigin="anonymous"></script> -->
+
+</head>
+
+<body>
+    <main class="row m-auto shadow bg-white px-0 rounded-3 overflow-hidden">
+        <a href="registration.html"> <img class="icon" id="icon-left" src="../references/svg/left-long-solid-black.svg">
+        </a>
+        <div class="col-lg-7 col-12">
+            <form action="./welcome.html" class="d-flex h-100 flex-column g-3 needs-validation" novalidate>
+                <div>
+                    <h2 class="text-center my-3">Login</h2>
+                </div>
+                <div class="d-flex flex-grow-1 justify-content-center align-items-center">
+                    <div>
+                        <!-- Username e Senha -->
+                        <div class="d-flex p0">
+                            <i class="fa-solid fa-circle-user"></i>
+                            <input type="text" class="form-control" placeholder="username ou email"
+                                id="validationCustom01" required />
+                        </div>
+                        <div class="d-flex p0">
+                            <i class="fa-solid fa-key"></i>
+                            <input type="password" class="form-control" placeholder="Senha" id="validationCustom02"
+                                required />
+                        </div>
+                        <!-- Botão 'lembre-se de mim' e botão de Login -->
+                        <div class="row d-flex p0 mt-4 align-items-center">
+                            <div class="col-12 col-lg-7">
+                                <input type="checkbox" id="rememberMe" />
+                                <label for="rememberMe">Lembre-se de Mim</label>
+                            </div>
+                            <div class="d-flex col-5">
+                                <button class="btn btn-primary px-3 w-100">
+                                    SIGN-IN
+                                </button>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
+                <div>
+                    <div class="d-flex align-items-start justify-content-left h-100">
+                        <img id="pachirisu-right" src="../references/imgs/Pachirisu.png" alt="">
+                    </div>
+                </div>
+
+
+            </form>
+        </div>
+        <div class="col px-0">
+            <img src="../references/imgs/img.jpg" class="right col img object-fit-cover" />
+        </div>
+    </main>
+
+    <!-- CDN Javascript do Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+    </script>
+    <script src="../references/js/scripts.js"></script>
+    <script src="../references/js/validation.js"></script>
+
+</body>
+
+</html>

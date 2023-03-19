@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TAP_T01_Funcoes/1.0.0": {
+        "runtime": {
+          "TAP_T01_Funcoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TAP_T01_Funcoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Continuação da revisão da aula anterior, desenvolvimento contínuo do front-end do website da FATEC, com a retomada de alguns outros príncipios básicos HTML e CSS, em especial, a utilização de FLEX-BOX.

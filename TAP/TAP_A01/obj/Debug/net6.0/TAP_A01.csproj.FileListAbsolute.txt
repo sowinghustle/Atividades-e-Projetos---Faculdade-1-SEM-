@@ -1,0 +1,15 @@
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\bin\Debug\net6.0\TAP_A01.exe
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\bin\Debug\net6.0\TAP_A01.deps.json
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\bin\Debug\net6.0\TAP_A01.runtimeconfig.json
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\bin\Debug\net6.0\TAP_A01.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\bin\Debug\net6.0\TAP_A01.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\refint\TAP_A01.dll
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.pdb
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\TAP_A01.genruntimeconfig.cache
+C:\Users\Aluno\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\TAP\TAP_A01\obj\Debug\net6.0\ref\TAP_A01.dll

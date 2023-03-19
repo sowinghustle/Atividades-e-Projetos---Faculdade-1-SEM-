@@ -1,0 +1,15 @@
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\bin\Debug\net6.0\Lista de exercícios (Revisão).exe
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\bin\Debug\net6.0\Lista de exercícios (Revisão).deps.json
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\bin\Debug\net6.0\Lista de exercícios (Revisão).runtimeconfig.json
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\bin\Debug\net6.0\Lista de exercícios (Revisão).dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\bin\Debug\net6.0\Lista de exercícios (Revisão).pdb
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).csproj.AssemblyReference.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).AssemblyInfoInputs.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).AssemblyInfo.cs
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\refint\Lista de exercícios (Revisão).dll
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).pdb
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\Lista de exercícios (Revisão).genruntimeconfig.cache
+C:\Users\Guilherme Cristiano\OneDrive - Fatec Centro Paula Souza\Fatec - 1 ano\Primeiro Semestre\ED\A01\Lista de exercícios (Revisão)\obj\Debug\net6.0\ref\Lista de exercícios (Revisão).dll

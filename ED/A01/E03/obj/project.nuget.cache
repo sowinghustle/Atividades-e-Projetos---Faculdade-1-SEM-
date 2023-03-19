@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSfr0d8Ea0Z+3FKu3TOtdhDY4xpWxhL3qG0Hjru+Nmm9FPqMKDxxLAHwVeKNJYmmleMHc8vJ9JCLVJaIIGRPnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme Cristiano\\OneDrive - Fatec Centro Paula Souza\\Fatec - 1 ano\\Primeiro Semestre\\ED\\A01\\E03\\E03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme Cristiano\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Guilherme Cristiano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Guilherme Cristiano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Guilherme Cristiano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
